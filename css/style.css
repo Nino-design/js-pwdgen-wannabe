@@ -1,0 +1,21 @@
+/*RESET*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*STILIZZAZIONE TAG*/
+
+h1{
+    color: blueviolet;
+    font-size: 4em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
